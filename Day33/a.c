@@ -1,5 +1,6 @@
 //Using declaration
 #include<stdio.h>
+#include<string.h>
 void main(){
     char str1[20]={'R','A','J','\0'};
     char *str2="MADGULKAR";
