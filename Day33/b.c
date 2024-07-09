@@ -23,3 +23,8 @@ void main(){
     puts(str1);
     puts(str2);
 }
+/*
+RAJ
+MADGULKAR
+RAJMADGULKAR
+MADGULKAR*/
